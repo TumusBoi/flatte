@@ -1,0 +1,1 @@
+curl -L https://catppuccin.github.io/discord/dist/catppuccin-frappe.theme.css > ~/.config/discocss/custom.css
